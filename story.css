@@ -1,0 +1,37 @@
+#s2
+{
+	background-color: yellow;
+	padding: 1px;
+	text-align: center;
+	padding-left: 26%;
+	padding-right: 26%;
+}
+.image
+{
+	background-color: white;
+	width: 190px;
+	height: 190px;
+}
+.con1
+{
+	margin-top: 10px;
+text-align: center;
+width: 80%;
+border-radius: 10px;
+margin-bottom: 10px;
+}
+.p
+{
+	font-size: 60px;
+}
+.con2
+{
+	margin-top: 10px;
+text-align: center;
+width: 80%;
+background-color: #fff0d0;
+border-radius: 10px;
+margin-bottom: 10px;
+height: 550px;
+padding-top: 60px;
+}
